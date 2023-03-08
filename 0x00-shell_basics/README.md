@@ -10,3 +10,4 @@ script 5
 9- delete a directory
 10- back
 11- listing all files
+12- type of file
