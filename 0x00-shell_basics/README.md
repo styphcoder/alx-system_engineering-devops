@@ -9,3 +9,4 @@ script 5
 8- delete a file
 9- delete a directory
 10- back
+11- listing all files
