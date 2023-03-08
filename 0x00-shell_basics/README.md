@@ -4,3 +4,4 @@
 3- Display current directory contents in a long format
 4-Display current directory contents, including hidden files
 script 5
+6- a script that creates a directory
