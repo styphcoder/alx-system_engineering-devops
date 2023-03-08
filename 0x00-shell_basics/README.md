@@ -16,3 +16,4 @@ script 5
 15-lets move
 16- deletes all files in the current working directory
 17- tree
+18-commas
