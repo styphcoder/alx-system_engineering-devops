@@ -11,3 +11,4 @@ script 5
 10- back
 11- listing all files
 12- type of file
+13- symbolik lin
