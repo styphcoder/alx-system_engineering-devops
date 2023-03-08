@@ -3,7 +3,7 @@
 2- changes the working directory to the user’s home directory
 3- Display current directory contents in a long format
 4-Display current directory contents, including hidden files
-script 5
+5- i love numbers
 6- a script that creates a directory
 7-move a file
 8- delete a file
