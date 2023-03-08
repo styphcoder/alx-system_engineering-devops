@@ -17,3 +17,4 @@ script 5
 16- deletes all files in the current working directory
 17- tree
 18-commas
+19-type:school
