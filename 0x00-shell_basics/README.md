@@ -6,3 +6,4 @@
 script 5
 6- a script that creates a directory
 7-move a file
+8- delete a file
