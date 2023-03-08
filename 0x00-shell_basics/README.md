@@ -14,3 +14,4 @@ script 5
 13- symbolik lin
 14- HTML files
 15-lets move
+16- deletes all files in the current working directory
