@@ -15,3 +15,4 @@ script 5
 14- HTML files
 15-lets move
 16- deletes all files in the current working directory
+17- tree
