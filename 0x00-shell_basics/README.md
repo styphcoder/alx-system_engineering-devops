@@ -12,3 +12,4 @@ script 5
 11- listing all files
 12- type of file
 13- symbolik lin
+14- HTML files
