@@ -7,3 +7,4 @@ a script that prints all the groups the current user is part of
 6- a script that adds multiple permissions
 7- execution permissions to everybody
 08- James bond
+9- John doe
