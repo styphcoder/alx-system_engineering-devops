@@ -10,3 +10,4 @@ a script that prints all the groups the current user is part of
 9- John doe
 10- look in the mirror
 11-Directories
+12-more directory_permissions
