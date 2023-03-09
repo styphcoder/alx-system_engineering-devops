@@ -12,3 +12,4 @@ a script that prints all the groups the current user is part of
 11-Directories
 12-more directory_permissions
 13- change group to a fil
+14-owner and group
