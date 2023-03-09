@@ -14,3 +14,4 @@ a script that prints all the groups the current user is part of
 13- change group to a fil
 14-owner and group
 15- Symbolic links
+16- if only
