@@ -9,3 +9,4 @@ a script that prints all the groups the current user is part of
 08- James bond
 9- John doe
 10- look in the mirror
+11-Directories
