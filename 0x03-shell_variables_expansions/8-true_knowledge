@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((182+TRUEKNOWLEDGE))
+echo $((182+$TRUEKNOWLEDGE))
